@@ -1,15 +1,5 @@
 # Countdown Timer App
-The Countdown Timer app developed using Android Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
-
-## Submission requirements
-- Follow the challenge description on the project website: [developer.android.com/dev-challenge](https://developer.android.com/dev-challenge)
-- All UI should be written using Jetpack Compose
-- The Github Actions workflow should complete successfully
-- Include two screenshots of your submission in the [results](results) folder. The names should be
-  screenshot_1.png and screenshot_2.png.
-- Include a screen record of your submission in the [results](results) folder. The name should be
-  video.mp4
-- Replace the contents of [README.md](README.md) with the contents of [README-template.md](README-template.md) and fill out the template.
+The Countdown Timer app developed using Android Jetpack Compose.
 
 ## Screenshots
 <img align="left" src="./results/screenshot_1.png" width="300" height="500">
