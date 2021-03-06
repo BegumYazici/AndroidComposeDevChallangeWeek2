@@ -1,10 +1,5 @@
-# Template repository
-
-Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
-
-## Getting started
-Copy this repository by pressing the "Use this template" button in Github.
-Clone your repository and open it in the latest [Android Studio (Canary build)](https://developer.android.com/studio/preview).
+# Countdown Timer App
+The Countdown Timer app developed using Android Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
 
 ## Submission requirements
 - Follow the challenge description on the project website: [developer.android.com/dev-challenge](https://developer.android.com/dev-challenge)
@@ -16,12 +11,11 @@ Clone your repository and open it in the latest [Android Studio (Canary build)](
   video.mp4
 - Replace the contents of [README.md](README.md) with the contents of [README-template.md](README-template.md) and fill out the template.
 
-## Code formatting
-The CI uses [Spotless](https://github.com/diffplug/spotless) to check if your code is formatted correctly and contains the right licenses.
-Internally, Spotless uses [ktlint](https://github.com/pinterest/ktlint) to check the formatting of your code.
-To set up ktlint correctly with Android Studio, follow one of the [listed setup options](https://github.com/pinterest/ktlint#-with-intellij-idea).
-
-Before committing your code, run `./gradlew app:spotlessApply` to automatically format your code.
+## Screenshots
+<img align="left" src="./results/screenshot_1.png" width="300" height="500">
+<p align="center">
+<img src="./results/screenshot_2.png" width="300" height="500">
+</p>
 
 ## License
 ```
