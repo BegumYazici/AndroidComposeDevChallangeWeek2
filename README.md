@@ -7,13 +7,6 @@ The Countdown Timer app developed using Android Jetpack Compose.
 <img src="./results/screenshot_2.png" width="300" height="500">
 </p>
 
-## Screenshots
-<img align="left" src="./results/screenshot_1.png" width="300" height="500">
-<p align="center">
-<img src="./results/screenshot_2.png" width="300" height="500">
-</p>
-
-
 ## License
 ```
 Copyright 2020 The Android Open Source Project
